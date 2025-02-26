@@ -1,0 +1,1 @@
+cor do icon: #3cd6eb
